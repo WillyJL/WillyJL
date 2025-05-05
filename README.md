@@ -3,24 +3,24 @@
     <i>Self proclaimed</i> <b>CEO of Procrastination</b> <i>and</i> <b>Avid C & Python Enjoyer</b>
     <br />
     <br />
-    <a href="https://hits.seeyoufarm.com/">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWilly-JL&title_bg=%232D2D2D&count_bg=%2322AA55&icon=github.svg&icon_color=%23E7E7E7&title=Views%20%28Day%20%2F%20All%29&edge_flat=false" />
-    </a>
+<!--     <a href="https://hits.seeyoufarm.com/">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWillyJL&title_bg=%232D2D2D&count_bg=%2322AA55&icon=github.svg&icon_color=%23E7E7E7&title=Views%20%28Day%20%2F%20All%29&edge_flat=false" />
+    </a> -->
     <a href="https://github.com/STRRL/serverless-github-badges">
-        <img src="https://badges.strrl.dev/years/Willy-JL?style=flat&labelColor=333333&logoColor=E7E7E7&color=0089FF&label=Years&logo=github" />
+        <img src="https://badges.strrl.dev/years/WillyJL?style=flat&labelColor=333333&logoColor=E7E7E7&color=0089FF&label=Years&logo=github" />
     </a>
-    <a href="https://github.com/Willy-JL?tab=followers">
-        <img src="https://img.shields.io/github/followers/Willy-JL?style=flat&labelColor=333333&logoColor=E7E7E7&color=8939FF&label=Followers&logo=github" />
+    <a href="https://github.com/WillyJL?tab=followers">
+        <img src="https://img.shields.io/github/followers/WillyJL?style=flat&labelColor=333333&logoColor=E7E7E7&color=8939FF&label=Followers&logo=github" />
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/stars/Willy-JL?style=flat&affiliations=OWNER%2CCOLLABORATOR&labelColor=333333&logoColor=E7E7E7&color=EEAA00&label=Stars&logo=github" />
+        <img src="https://img.shields.io/github/stars/WillyJL?style=flat&affiliations=OWNER%2CCOLLABORATOR&labelColor=333333&logoColor=E7E7E7&color=EEAA00&label=Stars&logo=github" />
     </a>
     <br />
     <a href="https://github.com/STRRL/serverless-github-badges">
-        <img src="https://badges.strrl.dev/contributions/yearly/Willy-JL?style=flat&labelColor=333333&logoColor=E7E7E7&color=BA4AB9&label=Yearly%20Contributions&logo=github" />
+        <img src="https://badges.strrl.dev/contributions/yearly/WillyJL?style=flat&labelColor=333333&logoColor=E7E7E7&color=BA4AB9&label=Yearly%20Contributions&logo=github" />
     </a>
     <a href="https://github.com/STRRL/serverless-github-badges">
-        <img src="https://badges.strrl.dev/contributions/all/Willy-JL?style=flat&labelColor=333333&logoColor=E7E7E7&color=E96F24&label=All%20Contributions&logo=github" />
+        <img src="https://badges.strrl.dev/contributions/all/WillyJL?style=flat&labelColor=333333&logoColor=E7E7E7&color=E96F24&label=All%20Contributions&logo=github" />
     </a>
     <br />
     <a href="#">
@@ -62,21 +62,21 @@ Projects 📦
 
 - #### <a href="https://github.com/Next-Flip/Momentum-Firmware"><img align="center" src="https://img.shields.io/github/v/release/Next-Flip/Momentum-Firmware?label=Momentum-Firmware&style=for-the-badge&labelColor=7771DB&color=222222"></a> :&nbsp; Feature-rich, stable and customizable Flipper Zero firmware
 
-- #### <a href="https://github.com/Willy-JL/MemSed"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/MemSed?label=MemSed&style=for-the-badge&labelColor=3377B0&color=222222"></a> :&nbsp; MEMory Search and EDit for Linux, inspired by Cheat Engine
+- #### <a href="https://github.com/WillyJL/MemSed"><img align="center" src="https://img.shields.io/github/v/release/WillyJL/MemSed?label=MemSed&style=for-the-badge&labelColor=3377B0&color=222222"></a> :&nbsp; MEMory Search and EDit for Linux, inspired by Cheat Engine
 
-- #### <a href="https://github.com/Willy-JL/SmoothieVid"><img align="center" src="https://img.shields.io/badge/-SmoothieVid-D02670?style=for-the-badge"></a> :&nbsp; Smoothen and stabilize videos right from your browser
+- #### <a href="https://github.com/WillyJL/SmoothieVid"><img align="center" src="https://img.shields.io/badge/-SmoothieVid-D02670?style=for-the-badge"></a> :&nbsp; Smoothen and stabilize videos right from your browser
 
-- #### <a href="https://github.com/Willy-JL/Qubes-Scripts"><img align="center" src="https://img.shields.io/badge/-Qubes--Scripts-02ACD6?style=for-the-badge"></a> :&nbsp; Collection of custom scripts for Qubes OS
+- #### <a href="https://github.com/WillyJL/Qubes-Scripts"><img align="center" src="https://img.shields.io/badge/-Qubes--Scripts-02ACD6?style=for-the-badge"></a> :&nbsp; Collection of custom scripts for Qubes OS
 
 - #### <a href="https://github.com/ohitstom/spicetify-easyinstall"><img align="center" src="https://img.shields.io/github/v/release/ohitstom/spicetify-easyinstall?label=Spicetify-EasyInstall&style=for-the-badge&labelColor=E84F41&color=F48C38"></a> :&nbsp; An open source installer for Spicetify - I did the GUI and the build workflows
 
-- #### <a href="https://github.com/Willy-JL/Soundy"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/Soundy?label=Soundy&style=for-the-badge&labelColor=3079EA&color=885DEA"></a> :&nbsp; A universal minimal media controller app for Windows
+- #### <a href="https://github.com/WillyJL/Soundy"><img align="center" src="https://img.shields.io/github/v/release/WillyJL/Soundy?label=Soundy&style=for-the-badge&labelColor=3079EA&color=885DEA"></a> :&nbsp; A universal minimal media controller app for Windows
 
-- #### <a href="https://github.com/Willy-JL/iOS-Mount"><img align="center" src="https://img.shields.io/badge/-iOS--Mount-02C68C?style=for-the-badge"></a> :&nbsp; Utility to mount iOS photos and apps on linux, built around ifuse
+- #### <a href="https://github.com/WillyJL/iOS-Mount"><img align="center" src="https://img.shields.io/badge/-iOS--Mount-02C68C?style=for-the-badge"></a> :&nbsp; Utility to mount iOS photos and apps on linux, built around ifuse
 
-- #### <a href="https://github.com/Willy-JL/ALTIERA-Bot"><img align="center" src="https://img.shields.io/badge/-A.L.T.I.E.R.A.-BCBD0A?style=for-the-badge"></a> :&nbsp; Discord bot for the Cyberpunk 2077 modding servers
+- #### <a href="https://github.com/WillyJL/ALTIERA-Bot"><img align="center" src="https://img.shields.io/badge/-A.L.T.I.E.R.A.-BCBD0A?style=for-the-badge"></a> :&nbsp; Discord bot for the Cyberpunk 2077 modding servers
 
-- #### <a href="https://github.com/Willy-JL/Animate-My-Emojis"><img align="center" src="https://img.shields.io/badge/-Animate_My_Emojis-887BFA?style=for-the-badge"></a> :&nbsp; Discord bot that allows animated emojis without Nitro
+- #### <a href="https://github.com/WillyJL/Animate-My-Emojis"><img align="center" src="https://img.shields.io/badge/-Animate_My_Emojis-887BFA?style=for-the-badge"></a> :&nbsp; Discord bot that allows animated emojis without Nitro
 
 - #### <a href="https://willyjl.dev"><img align="center" src="https://img.shields.io/badge/-willyjl.dev-0066FF?style=for-the-badge"></a> :&nbsp; My personal website
 
@@ -121,7 +121,7 @@ Get in Touch 📡
 [![Reddit](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0u%2FWillyJL%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=reddit&logoColor=white&labelColor=FF4500)](https://www.reddit.com/user/WillyJL)
 [![Twitter](https://img.shields.io/badge/-@WillyJL__-333333?style=for-the-badge&logo=x&logoColor=white&labelColor=1DA1F2)](https://twitter.com/WillyJL_)\
 [![YouTube](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0WillyJL%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%20%E2%81%A0-333333?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF2222)](https://www.youtube.com/channel/UCxouMwGYdvfKLDP4wb-eUoQ)
-[![GitHub](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0Willy--JL%20%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Willy-JL)\
+[![GitHub](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0Willy--JL%20%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/WillyJL)\
 [![Linktree](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0linktr.ee%2FWillyJL%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%81%A0-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B)](https://linktr.ee/WillyJL)
 
 Buy me a Coffee ☕
