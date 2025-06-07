@@ -45,9 +45,9 @@ class AboutMe():
         self.location = "Italy" and "UK"
         self.occupation = "Computer Science Student"
         self.birthday = date(day=27, month=5, year=2003)
-        self.age = (date.today()-self.birthday).days/365  # 21 y/o
-        self.hobbies = ["Coding", "Gaming", "Music", "YouTube"]
-        self.interests = ["Programming", "Linux", "Open Source"]
+        self.age = (date.today()-self.birthday).days/365  # 22 y/o
+        self.hobbies = ["Flipper Zero development", "Gaming", "Music", "YouTube"]
+        self.interests = ["Programming", "Linux", "Open Source", "Cyber Security"]
         self.hotel = "Trivago"
         self.breed = "Different"
 
