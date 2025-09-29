@@ -42,8 +42,8 @@ class AboutMe():
     def __init__(self):
         self.username = "WillyJL"
         self.pronouns = ("he", "him")
-        self.location = "Italy" and "UK"
-        self.occupation = "Computer Science Student"
+        self.location = "Italy"
+        self.occupation = "Looking for Work"
         self.birthday = date(day=27, month=5, year=2003)
         self.age = (date.today()-self.birthday).days/365  # 22 y/o
         self.hobbies = ["Flipper Zero development", "Gaming", "Music", "YouTube"]
@@ -105,12 +105,12 @@ Tools 🛠️
 My Specs 💻
 -----------
 
-![Desktop](https://img.shields.io/badge/Custom-Desktop-333333?style=for-the-badge&logo=pcgamingwiki&logoColor=white&labelColor=FF2299)
-[![CPU](https://img.shields.io/badge/-Ryzen_5_5600%E2%81%A0%20%E2%81%A0%20-333333?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/cpu/amd-ryzen-5-5600#product-specs)
+![Desktop](https://img.shields.io/badge/Custom-Desktop-333333?style=for-the-badge&logo=pcgamingwiki&logoColor=white&labelColor=2288FF)
+[![CPU](https://img.shields.io/badge/-Core_i5_9600K-333333?style=for-the-badge&logo=intel&logoColor=white&labelColor=0071C5)](https://www.amd.com/en/products/cpu/amd-ryzen-5-5600#product-specs)
 [![GPU](https://img.shields.io/badge/-Radeon_RX_7800_XT-333333?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/apu/amd-ryzen-5-3500u#product-specs)
 
-[![Laptop](https://img.shields.io/badge/Huawei-%E2%81%A0%20Laptop%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=huawei&logoColor=white&labelColor=DD4444)](https://consumer.huawei.com/en/laptops/matebook-d-14-2020)
-[![CPU](https://img.shields.io/badge/-Ryzen_5_3500U-333333?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/apu/amd-ryzen-5-3500u#product-specs)
+[![Laptop](https://img.shields.io/badge/Framework-%E2%81%A0%20%E2%81%A0%2013%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=framework&logoColor=white&labelColor=777777)](https://consumer.huawei.com/en/laptops/matebook-d-14-2020)
+[![CPU](https://img.shields.io/badge/-Ryzen_5_7640U-333333?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/apu/amd-ryzen-5-3500u#product-specs)
 [![GPU](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0%20Integrated_GPU%E2%81%A0%20%E2%81%A0%20-333333?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/apu/amd-ryzen-5-3500u#product-specs)
 
 Get in Touch 📡
@@ -121,7 +121,7 @@ Get in Touch 📡
 [![Reddit](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0u%2FWillyJL%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=reddit&logoColor=white&labelColor=FF4500)](https://www.reddit.com/user/WillyJL)
 [![Twitter](https://img.shields.io/badge/-@WillyJL__-333333?style=for-the-badge&logo=x&logoColor=white&labelColor=1DA1F2)](https://twitter.com/WillyJL_)\
 [![YouTube](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0WillyJL%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%20%E2%81%A0-333333?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF2222)](https://www.youtube.com/channel/UCxouMwGYdvfKLDP4wb-eUoQ)
-[![GitHub](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0Willy--JL%20%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/WillyJL)\
+[![GitHub](https://img.shields.io/badge/-%E2%81%A0%20%20%E2%81%A0WillyJL%20%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/WillyJL)\
 [![Linktree](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0linktr.ee%2FWillyJL%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%81%A0-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B)](https://linktr.ee/WillyJL)
 
 Buy me a Coffee ☕
