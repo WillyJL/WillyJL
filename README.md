@@ -43,7 +43,7 @@ class AboutMe():
         self.username = "WillyJL"
         self.pronouns = ("he", "him")
         self.location = "Italy"
-        self.occupation = "Looking for Work"
+        self.occupation = "Embedded Firmware Engineer"
         self.birthday = date(day=27, month=5, year=2003)
         self.age = (date.today()-self.birthday).days/365  # 22 y/o
         self.hobbies = ["Flipper Zero development", "Gaming", "Music", "YouTube"]
@@ -96,7 +96,7 @@ Languages 💾
 Tools 🛠️
 --------
 
-[![VS Code](   https://img.shields.io/badge/-VS_Code-333333?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPgo%3D&logoColor=white&labelColor=007ACC)](https://code.visualstudio.com/)
+[![Zed](   https://img.shields.io/badge/-Zed-333333?style=for-the-badge&logo=zedindustries&logoColor=white&labelColor=black)](https://code.visualstudio.com/)
 [![Qubes OS](  https://img.shields.io/badge/-Arch_Linux-333333?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=1793D0    )](https://archlinux.org/)
 [![Zsh](       https://img.shields.io/badge/-Zsh-333333?style=for-the-badge&logo=zelle&logoColor=white&labelColor=FF2299               )](https://www.zsh.org/)
 [![Git](       https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032                 )](https://git-scm.com/)
@@ -106,12 +106,12 @@ My Specs 💻
 -----------
 
 ![Desktop](https://img.shields.io/badge/Custom-Desktop-333333?style=for-the-badge&logo=pcgamingwiki&logoColor=white&labelColor=2288FF)
-[![CPU](https://img.shields.io/badge/-Core_i5_9600K-333333?style=for-the-badge&logo=intel&logoColor=white&labelColor=0071C5)](https://www.amd.com/en/products/cpu/amd-ryzen-5-5600#product-specs)
-[![GPU](https://img.shields.io/badge/-Radeon_RX_7800_XT-333333?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/apu/amd-ryzen-5-3500u#product-specs)
+[![CPU](https://img.shields.io/badge/-Ryzen_7_9800X3D-333333?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9800x3d.html)
+[![GPU](https://img.shields.io/badge/-Radeon_RX_7800_XT-333333?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7800-xt.html)
 
-[![Laptop](https://img.shields.io/badge/Framework-%E2%81%A0%20%E2%81%A0%2013%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=framework&logoColor=white&labelColor=777777)](https://consumer.huawei.com/en/laptops/matebook-d-14-2020)
-[![CPU](https://img.shields.io/badge/-Ryzen_5_7640U-333333?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/apu/amd-ryzen-5-3500u#product-specs)
-[![GPU](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0%20Integrated_GPU%E2%81%A0%20%E2%81%A0%20-333333?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/apu/amd-ryzen-5-3500u#product-specs)
+[![Laptop](https://img.shields.io/badge/Framework-%E2%81%A0%20%E2%81%A0%2013%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=framework&logoColor=white&labelColor=777777)](https://frame.work/ch/en/laptop13)
+[![CPU](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0%20Ryzen_5_7640U%E2%81%A0%20%E2%81%A0%20-333333?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7640u.html)
+[![GPU](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0%20Integrated_GPU%E2%81%A0%20%E2%81%A0%20-333333?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7640u.html)
 
 Get in Touch 📡
 ---------------
